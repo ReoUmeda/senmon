@@ -1,134 +1,134 @@
-Head of Line Blocking
-�擪�Ńp�P�b�g���u���b�N����Ă��܂��Ǝ��̃��N�G�X�g���ł��Ȃ�
+﻿Head of Line Blocking
+先頭でパケットがブロックされてしまうと次のリクエストができない
 
-���N�G�X�g
-����⏈���A���b�Z�[�W�Ȃǂ̂���
+リクエスト
+操作や処理、メッセージなどのこと
 
-�S��d���d���ʐM
-�P�̉���œ�̐M���𑗂�ʐM������B
+全二重多重化通信
+１つの回線で二つの信号を送り通信をする。
 http://www.wdic.org/w/WDIC/%E5%8D%8A%E4%BA%8C%E9%87%8D
 
 Hypertext Transfer Protocol
-Web�u���E�U��Web�T�[�o�̊Ԃ�HTML�Ȃǂ̃R���e���c�̑���M�ɗp������ʐM�v���g�R��
+WebブラウザとWebサーバの間でHTMLなどのコンテンツの送受信に用いられる通信プロトコル
 http://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 
 World Wide Web
-WWW�Ƃ́A���E���̃T�[�o�Ō��J����Ă�������C���^�[�l�b�g��Web�y�[�W�Ƃ��ĉ{�����邱�Ƃ��ł���d�g�݂̂���
-�n�C�p�[�����N�ɂ���ăh�L�������g���m�����邱�Ƃ��ł��邪���̂Ȃ�������w偂̂̑��̂悤�ɂ���
-World Wide Web�ƂȂÂ���ꂽ�B
+WWWとは、世界中のサーバで公開されている情報をインターネットのWebページとして閲覧することができる仕組みのこと
+ハイパーリンクによってドキュメント同士を見ることができるがそのつながり方が蜘蛛のの巣のようにから
+World Wide Webとなづけられた。
 http://www.ocn.ne.jp/support/words/wxyz/WWW.html
 
-�t�s����
-�d�C�ʐM�ɂ����ăg���t�B�b�N�𐧌䂵�A�Ⴆ�΃p�P�b�g�̓]�����[�g���팸����Ȃǂ��Ē��ԃm�[�h��l�b�g���[�N�̋��e��
-�i�����\�͂⃊���N���j�𒴉߂��邱�Ƃɂ���t�s����ɂ��t�s�����h�����Ƃł���B
+輻輳制御
+電気通信においてトラフィックを制御し、例えばパケットの転送レートを削減するなどして中間ノードやネットワークの許容量
+（処理能力やリンク数）を超過することによる輻輳さらには輻輳崩壊を防ぐことである。
 http://ja.wikipedia.org/wiki/%E8%BC%BB%E8%BC%B3%E5%88%B6%E5%BE%A1
 
-�t�s
-���p�҂̃A�N�Z�X������̈���ɏW�����邱�Ƃɂ��A�ʏ�s����͂��̒ʘb�E�ʐM���ł��Ȃ��Ȃ�󋵂��w��
+輻輳
+利用者のアクセスが特定の宛先に集中することにより、通常行えるはずの通話・通信ができなくなる状況を指す
 
-�t�s����
-�C���^�[�l�b�g�ŃA�N�Z�X����Ƃ��ڑ��ł��Ȃ��ƍĐڑ����悤�Ƃ�������t�s�������Ȃ��Ă��܂�����
+輻輳崩壊
+インターネットでアクセスするとき接続できないと再接続しようとしさらに輻輳が悪くなってしまうこと
 http://e-words.jp/w/%E8%BC%BB%E8%BC%B3.html
 
-�v���g�R��
-�ʐM�ɂ�����v���g�R���Ƃ́A�����̎�̂��؂�Ȃ��M����f�[�^�A���𑊌݂ɓ`���ł���悤�A
-���炩���ߌ��߂�ꂽ�񑩎���菇�̏W���̂��ƁB
+プロトコル
+通信におけるプロトコルとは、複数の主体が滞りなく信号やデータ、情報を相互に伝送できるよう、
+あらかじめ決められた約束事や手順の集合のこと。
 http://e-words.jp/w/%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB.html
 
-Web�u���E�U
-Web�y�[�W���{�����邽�߂̃A�v���P�[�V�����\�t�g�B�C���^�[�l�b�g����HTML�t�@�C����摜�t�@�C���A
-���y�t�@�C���Ȃǂ��_�E�����[�h���A���C�A�E�g����͂��ĕ\���E�Đ�����B
+Webブラウザ
+Webページを閲覧するためのアプリケーションソフト。インターネットからHTMLファイルや画像ファイル、
+音楽ファイルなどをダウンロードし、レイアウトを解析して表示・再生する。
 http://e-words.jp/w/Web%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6.html
 
-�p�P�b�g
-�f�[�^�ʐM�l�b�g���[�N�𗬂��f�[�^�̒P�ʂŁA�`�������f�[�^�{�̂ɑ��M��̏��݃f�[�^�Ȃǐ������
-�t�����������Ȃ܂Ƃ܂�̂��ƁB
+パケット
+データ通信ネットワークを流れるデータの単位で、伝送されるデータ本体に送信先の所在データなど制御情報を
+付加した小さなまとまりのこと。
 
 http://e-words.jp/w/%E3%83%91%E3%82%B1%E3%83%83%E3%83%88.html
 
 HTML
-���̘͂_���\����\���̎d���Ȃǂ��L�q���邱�Ƃ��ł���BWeb�̊�{�I�Ȗ������ʂ����Ă���B
-�摜��\�A���X�g�Ȃǂ̍��x�ȕ\�����ł���B
+文章の論理構造や表示の仕方などを記述することができる。Webの基本的な役割を果たしている。
+画像や表、リストなどの高度な表現ができる。
 http://e-words.jp/w/HTML.html
 
 SPDY
-Web�T�[�o��Web�u���E�U���f�[�^�𑗎�M���邽�߂̒ʐM�v���g�R���̈�ł���HTTP�����ǂ����v���g�R����
-�������������Ȃ��Ă���BALPN���x�[�X�ɂ��Ă��邽��HTTPS���g���Ă̒ʐM���K�{�ƂȂ��Ă���B
-�܂�HTTP/2�̊�b�ƂȂ��Ă���B
+WebサーバとWebブラウザがデータを送受信するための通信プロトコルの一つであるHTTPを改良したプロトコルで
+高速化がおこなわれている。ALPNをベースにしているためHTTPSを使っての通信が必須となっている。
+またHTTP/2の基礎となっている。
 http://e-words.jp/w/SPDY.html
 
-�o�C�i��
-�R���s���[�^��������悤2�i�@�ɑ�����0��1�̗���(�r�b�g��)�Ƃ��ĕ\�����ꂽ�f�[�^�₻�̂悤�ȕ\���`�����o�C�i���Ƃ����B
-�܂��A���̂悤�ȃf�[�^�̂����A�e�L�X�g(����)�`���ł͂Ȃ��C�ӂ̃f�[�^�`���̂��ƁB
+バイナリ
+コンピュータが扱えるよう2進法に則って0と1の羅列(ビット列)として表現されたデータやそのような表現形式をバイナリという。
+また、そのようなデータのうち、テキスト(文字)形式ではない任意のデータ形式のこと。
 http://e-words.jp/w/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA.html
 
-���E���h�g���b�v
-�ʐM��l�b�g���[�N�A�f�[�^�`���Ȃǂ̕���ł́A�ʐM����ɐM����f�[�^�𔭐M���āA�������A���Ă���܂ł̉ߒ������E���h�g���b�v�Ƃ���
+ラウンドトリップ
+通信やネットワーク、データ伝送などの分野では、通信相手に信号やデータを発信して、応答が帰ってくるまでの過程をラウンドトリップという
 http://e-words.jp/w/%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%AA%E3%83%83%E3%83%97.html
 
-�A�Z�b�g
-�Q�[����f�W�^���R���e���c�̊J���ł́A���̍\���v�f�ƂȂ�摜��3D���f���A���y�A���ʉ��Ȃǂ̑f�ނ̂��Ƃ��A�Z�b�g�Ƃ������Ƃ�����B
+アセット
+ゲームやデジタルコンテンツの開発では、その構成要素となる画像や3Dモデル、音楽、効果音などの素材のことをアセットということがある。
 http://e-words.jp/w/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88.html
 
-���X�|���X
-�l�b�g���[�N�ʐM�ŁA�ʐM����Ƀf�[�^�𑗐M������A���肩�瑗���Ă���ԐM�₻�̓��e�̂��Ƃ����X�|���X�Ƃ����B
+レスポンス
+ネットワーク通信で、通信相手にデータを送信した後、相手から送られてくる返信やその内容のことをレスポンスという。
 http://e-words.jp/w/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B9.html
 
 RFC
-�C���^�[�l�b�g�Ɋւ���Z�p�̕W�����߂�c�̂ł���IETF�������ɔ��s���镶���B
+インターネットに関する技術の標準を定める団体であるIETFが正式に発行する文書。
 http://e-words.jp/w/RFC.html
 
 IETF
-�C���^�[�l�b�g�ŗ��p�����Z�p�̕W�����𐄐i����g�D�̈��
-�ʐM�v���g�R����f�[�^�`���ȂǁA�C���^�[�l�b�g�ŏ�����������̂ɕK�v�ȋZ�p�W���̍�����s���Ă���
+インターネットで利用される技術の標準化を推進する組織の一つ
+通信プロトコルやデータ形式など、インターネットで情報を交換するのに必要な技術標準の策定を行っている
 http://e-words.jp/w/IETF.html
 
-�n�C�p�[�e�L�X�g
-�R���s���[�^�𗘗p���������V�X�e���̈�B�����̔C�ӂ̏ꏊ�ɁA���̕����̈ʒu���(�n�C�p�[�����N)�𖄂߂��݁A
-�����̕����𑊌݂ɘA���ł���d�g�݂̂��ƁB
+ハイパーテキスト
+コンピュータを利用した文書システムの一つ。文書の任意の場所に、他の文書の位置情報(ハイパーリンク)を埋めこみ、
+複数の文書を相互に連結できる仕組みのこと。
 http://e-words.jp/w/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88.html
 
-�n�C�p�[�����N
-�������ɖ��ߍ��܂ꂽ�A���̕�����摜�Ȃǂ̈ʒu���B
+ハイパーリンク
+文書内に埋め込まれた、他の文書や画像などの位置情報。
 http://e-words.jp/w/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AF.html
 
-�v���L�V
-��ƂȂǂ̓����l�b�g���[�N�ƃC���^�[�l�b�g�̋��E�ɂ���A���ڃC���^�[�l�b�g�ɐڑ��ł��Ȃ������̃R���s���[�^�ɑ����āA
-�u�㗝�v�Ƃ��ăC���^�[�l�b�g�Ƃ̐ڑ����s���R���s���[�^�̂��ƁB�܂��A���̂��߂̋@�\����������\�t�g�E�F�A�B
+プロキシ
+企業などの内部ネットワークとインターネットの境界にあり、直接インターネットに接続できない内部のコンピュータに代わって、
+「代理」としてインターネットとの接続を行うコンピュータのこと。また、そのための機能を実現するソフトウェア。
 http://e-words.jp/w/%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7.html
 
-���[�^
-�l�b�g���[�N��𗬂��f�[�^�𑼂̃l�b�g���[�N�ɒ��p����@��
-��M�p�P�b�g�̂��Đ��񂩂�o�H�I�����s�����[�e�B���O
-�p�P�b�g�̑I�ʂ��s�������ɊY������p�P�b�g��j������t�B���^�����O�@�\��
-WAN���̂ق����ш悪�������ꍇ�p�ǂ̃P�b�g��D�悵�ďo�͂��邩�I��������QoS�@�\
-�o�H���������[�e�B���O�e�[�u���̊Ǘ�������
+ルータ
+ネットワーク上を流れるデータを他のネットワークに中継する機器
+受信パケットのあて先情報から経路選択を行うルーティング
+パケットの選別を行い条件に該当するパケットを破棄するフィルタリング機能と
+WAN側のほうが帯域が小さい場合パどのケットを優先して出力するか選択をするQoS機能
+経路情報を持つルーティングテーブルの管理をする
 http://e-words.jp/w/%E3%83%AB%E3%83%BC%E3%82%BF.html
 http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC
 
 CERN
-���B���q�j�����@�\
-���E�ő�K�͂̑f���q�����w�̌�����
+欧州原子核研究機構
+世界最大規模の素粒子物理学の研究所
 http://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B
 
 TLS
-�C���^�[�l�b�g�Ȃǂ̃l�b�g���[�N�Ńf�[�^���Í������đ���M����v���g�R��
-�T�[�o�[���N���C�A���g�ɏؖ����𑗂�N���C�A���g����O�ҋ@�ւɐ��������ؖ����Ă��炤
-���J���ؖ����⓯�����𑗐M�҂Ǝ�M�҂ŋ��L���鋤�ʌ��Í��ɂ��ʐM�̈Í����A�n�b�V���֐��ɂ������񌟒m�̋@�\������B
+インターネットなどのネットワークでデータを暗号化して送受信するプロトコル
+サーバーがクライアントに証明書を送りクライアントが第三者機関に正当性を証明してもらう
+公開鍵証明書や同じ鍵を送信者と受信者で共有する共通鍵暗号による通信の暗号化、ハッシュ関数による改ざん検知の機能がある。
 
 http://e-words.jp/w/TLS.html
 
 ADSL
-�d�b�����g�������ȃf�[�^�ʐM���s���Z�p�B
-��ʂ̉����d�b�Ɏg���Ă���1�΂̓d�b�����g���ĒʐM����
-ADSL���g���Ă�����g���т͓d�C�M���̗򉻂����������߁AADSL�𗘗p�ł���͓̂d�b���̒�����
-���悻6�`7km�܂ł̓d�b����Ɍ�����B�܂��AADSL�𗘗p�ł���d�b����ł��A���ۂ̒ʐM���x�͉���̋����⎿�ɑ傫���e�������B
+電話線を使い高速なデータ通信を行う技術。
+一般の加入電話に使われている1対の電話線を使って通信する
+ADSLが使っている周波数帯は電気信号の劣化が激しいため、ADSLを利用できるのは電話線の長さが
+およそ6～7kmまでの電話回線に限られる。また、ADSLを利用できる電話回線でも、実際の通信速度は回線の距離や質に大きく影響される。
 http://e-words.jp/w/ADSL.html
 
-�����
-���t�@�C�o�[��p���Č��M���ŏ��̑���M���s�Ȃ��ʐM����̂��ƁB�R���s���[�^�Ȃǂ̏��@��Ƃ̐ڑ��ɂ�
-�d�C�M���Ƃ̕ϊ����u����Đڑ�����B
-�������Ԃő�e�ʂ̃f�[�^�ʐM���\
+光回線
+光ファイバーを用いて光信号で情報の送受信を行なう通信回線のこと。コンピュータなどの情報機器との接続には
+電気信号との変換装置を介して接続する。
+長距離間で大容量のデータ通信が可能
 http://e-words.jp/w/%E5%85%89%E5%9B%9E%E7%B7%9A.html
 
 
