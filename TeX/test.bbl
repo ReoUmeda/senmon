@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{HTTP0}
+高速・大規模ネットワーク時代に向けて改良されたhttp/2プロトコル.
+\newblock \\http://www.atmarkit.co.jp/ait/articles/1409/18/news135.html.
+
+\bibitem{HTTP1}
+ウェブを高速化する「http/2」を知る.
+\newblock \\http://denko.panasonic.biz/Ebox/everleds/led/index.html.
+
+\bibitem{2}
+Hypertext transfer protocol version 2\\draft-ietf-httpbis-http2-17.
+\newblock \\http://tools.ietf.org/html/draft-ietf-httpbis-http2-17.
+
+\end{thebibliography}
