@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.4.4)  15 APR 2015 17:07
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.4.4)  16 APR 2015 19:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,50 +283,28 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 43.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 52.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 52.
+(Font)              scaled to size 11.53198pt on input line 82.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 52.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 52.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 77.
+(Font)              scaled to size 11.53198pt on input line 82.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 112.
+
 
 (c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 77.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 86.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 86.
-LaTeX Font Info:    Try loading font information for U+msa on input line 86.
-
-(c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 86.
-
-(c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 112.
+File: img/TCPco5.eps Graphic file (type eps)
+ <img/TCPco5.eps>
 File: img/TCPco6.eps Graphic file (type eps)
 
 <img/TCPco6.eps>
-File: img/TCPco5.eps Graphic file (type eps)
- <img/TCPco5.eps>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: img/RR3.eps Graphic file (type eps)
-<img/RR3.eps>
+File: img/RR4.eps Graphic file (type eps)
+ <img/RR4.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -335,7 +313,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 File: img/frame2.eps Graphic file (type eps)
- <img/frame2.eps> (./test.bbl
+ <img/frame2.eps>
+File: img/AHEAD2.eps Graphic file (type eps)
+ <img/AHEAD2.eps> (./test.bbl
 Overfull \hbox (33.26787pt too wide) in paragraph at lines 4--6
 []\OT1/cmr/m/n/9 http://www.atmarkit.co.jp/ait/articles/1409/18/news135.html. 
  []
@@ -347,12 +327,12 @@ Overfull \hbox (14.88878pt too wide) in paragraph at lines 8--10
 
 ) [2] (./test.aux) ) 
 Here is how much of TeX's memory you used:
- 2031 strings out of 493797
- 23719 string characters out of 6153345
- 94843 words of memory out of 5000000
- 5470 multiletter control sequences out of 15000+600000
- 13864 words of font info for 65 fonts, out of 8000000 for 9000
+ 2005 strings out of 493797
+ 23286 string characters out of 6153345
+ 91843 words of memory out of 5000000
+ 5456 multiletter control sequences out of 15000+600000
+ 11981 words of font info for 55 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 44i,7n,30p,255b,276s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 44i,4n,30p,255b,276s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on test.dvi (2 pages, 13156 bytes).
+Output written on test.dvi (2 pages, 12684 bytes).
